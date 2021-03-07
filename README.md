@@ -1,4 +1,7 @@
-### Hi there 👋
+Welcome!
+My name is Luan Reis and i'm newest Java developer.
+- 🌱 I’m currently learning Spring Boot.
+- ⚡ Fun fact: Big lover of anime,guitar,mangas,Tech, and another lot things.
 
 <!--
 **luanreis164/luanreis164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
