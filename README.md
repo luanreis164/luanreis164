@@ -12,7 +12,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55013996735588&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55013996735588&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanreis2202@gmail.com)](mailto:luanreis2202@gmail.com)
  
-
+- Thanks for visiting. :pushpin:
 
 <!--
 **luanreis164/luanreis164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
