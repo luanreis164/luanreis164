@@ -7,7 +7,7 @@
 <img align="right" width="400" height="350" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47wr0q4gaavq6rh7itier727hmwrel7d40u1ytrske&rid=giphy.gif">
 
 ## About me:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luanreis164)](https://github.com/luanreis164)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luan-reis164)](https://github.com/luan-reis164)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luan-reis164/)](https://www.linkedin.com/in/luanreis164/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55013996735588&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55013996735588&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanreis2202@gmail.com)](mailto:luanreis2202@gmail.com)
