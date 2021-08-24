@@ -1,7 +1,7 @@
 # Welcome!              
 ## My name is Luan Reis.
 - :computer: Java developer.
-- 🌱 I’m currently learning Spring Boot and others programming languages.
+- 🌱 I’m currently learning Spring Boot and others frameworks/programming languages.
 - ⚡ Fun facts: Big lover of anime :tv:,guitar:guitar:,mangas:books:,Tech :shipit:, and another lot things.
 
 <img align="right" width="400" height="350" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47wr0q4gaavq6rh7itier727hmwrel7d40u1ytrske&rid=giphy.gif">
