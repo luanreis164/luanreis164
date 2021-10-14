@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Spring Boot and others frameworks/programming languages.
 - ⚡ Fun facts: Big lover of anime :tv:,guitar:guitar:,mangas:books:,Tech :shipit:, and another lot things.
 
-<img align="right" width="400" height="350" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47wr0q4gaavq6rh7itier727hmwrel7d40u1ytrske&rid=giphy.gif">
+<img align="right" width="200" height="200" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47wr0q4gaavq6rh7itier727hmwrel7d40u1ytrske&rid=giphy.gif">
 
 ## About me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luanreis164)](https://github.com/luanreis164)
