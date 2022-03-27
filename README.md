@@ -1,7 +1,7 @@
 # Welcome!              
 ## My name is Luan Reis.
 - :computer: Java developer.
- <img align="right" width="150" height="150" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47wr0q4gaavq6rh7itier727hmwrel7d40u1ytrske&rid=giphy.gif">
+
 - 🌱 I’m currently learning Java/Spring and others frameworks/programming languages.
 - ⚡ Fun facts: Big lover of anime :tv:,guitar:guitar:,mangas:books:,Tech :shipit:, and another lot of things.
 
@@ -10,6 +10,7 @@
 <div>
 <a href="https://github.com/luanreis164">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanreis164&layout=compact&langs_count=7&theme=dracula"/>
+ <img align="right" width="220" height="200" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47wr0q4gaavq6rh7itier727hmwrel7d40u1ytrske&rid=giphy.gif">
 </div>
 
 
