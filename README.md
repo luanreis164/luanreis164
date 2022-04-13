@@ -1,8 +1,8 @@
 # Welcome!              
 ## My name is Luan Reis.
-- :computer: Java developer.
+- :computer: Java developer - Backend.
 
-- 🌱 I’m currently learning Java/Spring and others frameworks/programming languages.
+- 🌱 I’m currently improving knowledge in Java/Spring in backend and some frontend frameworks like Angular/Ionic/ReactJs.
 - ⚡ Fun facts: Big lover of anime :tv:,guitar:guitar:,mangas:books:,Tech :shipit:, and another lot of things.
 
 ---------------------------------
